@@ -11,12 +11,10 @@ The module includes an unplugged activity and AI-See, a novel software activity 
 ## Image Recognition Ed Resources 
 
 ### Module Slidedeck 
-
 [coming soon]
 
 ### Unplugged Make-A-Matrix Activity
-
-[coming soon]
+Make-A-Matrix Worksheet Link: https://github.com/pdr24/ImageRecognitionEd-SIGCSE2026/blob/main/MakeAMatrix_Unplugged.pdf
 
 ### AI-See
 AI-See live link (works best on computers (use 80% zoom on smaller screens)): https://pdr24.github.io/AI-See/
