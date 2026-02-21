@@ -22,4 +22,4 @@ AI-See live link (works best on computers (use 80% zoom on smaller screens)): ht
 AI-See github repository: https://github.com/pdr24/AI-See
 
 ### Presentation Materials
-Image Recongition Ed ACM SIGCSE TS 2026 Presentation Slides: [coming soon]
+Image Recongition Ed ACM SIGCSE TS 2026 Presentation Slides: https://github.com/pdr24/ImageRecognitionEd-SIGCSE2026/blob/main/online%20copy%20IR%20Module%20at%20Summer%20Camp%20SIGCSE26%20Presentation.pdf
